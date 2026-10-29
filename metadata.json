@@ -1,0 +1,6 @@
+{
+  "name": "CyberAmp",
+  "description": "Next-generation cybernetic high-resolution music player with 10-band parametric EQ, tube/DSP amplifiers, dynamic album skins, surround audio engine, and AI mood playlist organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

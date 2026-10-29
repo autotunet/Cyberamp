@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CyberAmp</string>
+    <string name="nav_deck">Deck</string>
+    <string name="nav_eq_amp">EQ &amp; Amp</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_ai_mood">IA Mood</string>
+    <string name="nav_skins">Skins</string>
+    <string name="deck_title">CYBERAMP PRO DECK</string>
+    <string name="format_lossless_badge">HI-RES LOSSLESS</string>
+    <string name="visualizer_mode_spectrum">Espectro 64-Bandas</string>
+    <string name="visualizer_mode_wave">Osciloscopio</string>
+    <string name="visualizer_mode_vu">Medidores VU Duales</string>
+    <string name="eq_parametric_title">ECUALIZADOR PARAMÉTRICO 10-BANDAS</string>
+    <string name="amp_rack_title">AMPLIFICADOR &amp; SONIDO ENVOLVENTE 3D</string>
+    <string name="ai_mood_title">IA ORGANIZADOR DE ESTADO DE ÁNIMO</string>
+    <string name="ai_mood_subtitle">Describe cómo te sientes o qué estás haciendo y Gemini organizará tu lista de reproducción y perfil acústico en tiempo real.</string>
+    <string name="skins_title">ESTILOS CIBERNÉTICOS &amp; SKINS DINÁMICAS</string>
+    <string name="dynamic_album_skin">Skin Dinámica por Carátula de Álbum</string>
+    <string name="import_local_audio">Importar Audio Local</string>
+</resources>
